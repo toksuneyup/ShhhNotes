@@ -15,11 +15,3 @@ Notlarda arama ve filtreleme
 Oturum yönetimi (oturumu kapatma)
 
 Temiz ve kullanıcı dostu arayüz
-
-🔧 Teknolojiler
-
-C# (.NET Framework)
-
-Windows Forms
-
-System.Text.Json
